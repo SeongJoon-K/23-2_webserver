@@ -1,0 +1,315 @@
+[
+    {
+     "lectures": [
+      {
+       "lectureId": 1,
+       "place": "원흥관 F540",
+       "lectureName": "산업시스템프로그래밍2",
+       "professorName": "이종태",
+       "lectureTime": [
+        {
+         "weekday": "fri",
+         "startTime": "11:00",
+         "endTime": "12:00"
+        },
+        {
+         "weekday": "mon",
+         "startTime": "11:00",
+         "endTime": "12:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 2,
+       "place": "원흥관 F340",
+       "lectureName": "경영과학1",
+       "professorName": "홍성조",
+       "lectureTime": [
+        {
+         "weekday": "thu",
+         "startTime": "09:00",
+         "endTime": "10:30"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "11:00",
+         "endTime": "12:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 3,
+       "place": "원흥관 F450",
+       "lectureName": "데이터애널리틱스",
+       "professorName": "윤병운",
+       "lectureTime": [
+        {
+         "weekday": "wed",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        },
+        {
+         "weekday": "fri",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 4,
+       "place": "정보문화관 443",
+       "lectureName": "기술경영",
+       "professorName": "서용윤",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "10:30",
+         "endTime": "12:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "10:30",
+         "endTime": "12:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 6,
+       "place": "신공학관 340",
+       "lectureName": "품질공학",
+       "professorName": "서용윤",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "lectures": [
+      {
+       "lectureId": 7,
+       "place": "원흥관 F340",
+       "lectureName": "정보시스템분석설계",
+       "professorName": "김소정",
+       "lectureTime": [
+        {
+         "weekday": "tue",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        },
+        {
+         "weekday": "thu",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 8,
+       "place": "원흥관 530",
+       "lectureName": "유통물류관리",
+       "professorName": "전성범",
+       "lectureTime": [
+        {
+         "weekday": "tue",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        },
+        {
+         "weekday": "thu",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 9,
+       "place": "원흥관 333",
+       "lectureName": "서비스공학",
+       "professorName": "윤병운",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "09:00",
+         "endTime": "11:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "09:00",
+         "endTime": "11:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 10,
+       "place": "원흥관 332",
+       "lectureName": "인간공학",
+       "professorName": "장준호",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "17:00",
+         "endTime": "19:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "17:00",
+         "endTime": "19:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 11,
+       "place": "원흥관 123",
+       "lectureName": "생산 및 운영관리",
+       "professorName": "전성범",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 12,
+       "place": "원흥관 100",
+       "lectureName": "헬스케어공학",
+       "professorName": "염세경",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "lectures": [
+      {
+       "lectureId": 14,
+       "place": "원흥관 401",
+       "lectureName": "산업AI",
+       "professorName": "이종태",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "13:00",
+         "endTime": "15:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 16,
+       "place": "원흥관 403",
+       "lectureName": "프로젝트관리",
+       "professorName": "서용윤",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "17:00",
+         "endTime": "19:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "17:00",
+         "endTime": "19:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 17,
+       "place": "원흥관 404",
+       "lectureName": "경영과학1",
+       "professorName": "홍성조",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "15:00",
+         "endTime": "17:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 18,
+       "place": "원흥관 405",
+       "lectureName": "경영과학2",
+       "professorName": "홍성조",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "19:00",
+         "endTime": "21:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "19:00",
+         "endTime": "21:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 19,
+       "place": "원흥관 406",
+       "lectureName": "응용통계학",
+       "professorName": "염세경",
+       "lectureTime": [
+        {
+         "weekday": "mon",
+         "startTime": "09:00",
+         "endTime": "10:00"
+        },
+        {
+         "weekday": "wed",
+         "startTime": "09:00",
+         "endTime": "10:00"
+        }
+       ]
+      },
+      {
+       "lectureId": 20,
+       "place": "원흥관 406",
+       "lectureName": "실험계획법",
+       "professorName": "홍성조",
+       "lectureTime": [
+        {
+         "weekday": "fri",
+         "startTime": "13:00",
+         "endTime": "16:00"
+        }
+       ]
+      }
+     ]
+    }
+   ]
